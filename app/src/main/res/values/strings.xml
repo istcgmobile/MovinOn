@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Movin\' On</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="artists">
+        <item>Cecil Blutcher</item>
+        <item>Sammy Adams</item>
+        <item>Misterwives</item>
+        <item>X Ambassadors</item>
+        <item>Nelly</item>
+        <item>WALK THE MOON</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>This year\'s Battle of Bands Winner, born and raised in and around the Chicago area before moving to Pennsylvania for higher education, Cecil Blutcher cites music as an amalgamation of inspiration. With influences from Michael Jackson, Kanye West, Lauryn Hill, and more, Blutcher combines rap, hip-hop, RnB, pop, blues, neo-soul and spoken word intricately to create an altogether new sound.</item>
+        <item>A Boston native, Sammy Adams, caused quite a stir in 2010 when his debut album topped the online hip-hop charts the week of its release. Adams has since transitioned into a more pop sound, recognizing that he’s had his biggest success come from songs with “catchy hooks,” and a “universal” sound. With his new album expected March 24, 2016 titled “The Long Way,” Adams is sure to bring a new twist to his already thrilling and upbeat live set.</item>
+        <item>Brought to Movin\' On by collaborating organization, the Student Programming Association, MisterWives, effortlessly combines aspects of indie rock, soul, funk, ska and pop music. With 2014 proving to be their breakout year, MisterWives’ single “Reflections” was bumped to the #1 spot on Billboard\'s Emerging Artist chart. Their sound continues to bring a funky danceable world to venues worldwide.</item>
+        <item>Made up of a group of brothers and best friends, X Ambassadors is climbing the alternative charts. The band’s EP, titled VHS, is a stomping, syncopated full-length debut that is all about exploration, and finding your way through any circumstance. Their sound is influenced by the band members’ love for hip-hop, their childhoods, and their journey through the process of finding their voice in the massive world of music.</item>
+        <item>Nelly is a savvy pop-rapper with crossover appeal first discovered in the early 2000’s with his signature song “Hot in Herre.” His universality set him apart from all of the prevailing rap styles of his time. Today, Nelly’s “The Fix” featuring Jeremih, is his 27th single on the Hot 100. His sound brings a classic taste to the hip-hop/rap genre, creating a diverse musical personality.</item>
+        <item>WALK THE MOON\'s influential sound works to free yourself from the shackles of self-consciousness and to embrace the present. WALK THE MOON’s live show is not a spectator sport. Instead, it’s an interactive celebration of life and love, a communal commitment to joy and living in the moment.</item>
+
+    </string-array>
+    <string-array name="banners">
+        <item>@drawable/artist0</item>
+        <item>@drawable/artist5</item>
+        <item>@drawable/artist4</item>
+        <item>@drawable/artist3</item>
+        <item>@drawable/artist2</item>
+        <item>@drawable/artist1</item>
+    </string-array>
+    <string-array name="times">
+        <item>3:30PM, Side Stage</item>
+        <item>4:15PM, Side Stage</item>
+        <item>5:15PM, Main Stage</item>
+        <item>6:30PM, Main Stage</item>
+        <item>8:00PM, Main Stage</item>
+        <item>9:30PM, Main Stage</item>
+    </string-array>
+    <string-array name="booths">
+        <item>ARHS Art Wall</item>
+        <item>Artist Merch</item>
+        <item>B94.5 - All The Hits</item>
+        <item>Mountain Dew</item>
+        <item>ReverbNation</item>
+        <item>Snyder’s Concessions</item>
+        <item>Movin’ On Merch</item>
+    </string-array>
+    <string-array name="booth_icons">
+        <item>@drawable/arhs</item>
+        <item>@drawable/movinon</item>
+        <item>@drawable/movinon</item>
+        <item>@drawable/mtdew</item>
+        <item>@drawable/reverb</item>
+        <item>@drawable/movinon</item>
+        <item>@drawable/movinon</item>
+    </string-array>
+    <string-array name="booth_descriptions">
+        <item>Collaborating organization, the Association for Residence Hall Students (ARHS) introduces the ARHS Art Wall, new to Movin’ On 2016! Sign your name or paint a design and leave your mark on this years festival.</item>
+        <item>After jamming out to your favorite act, stop on by and snag their official merch! Note: WALK THE MOON, X Ambassadors, and MisterWives will be the only artists selling merchandise at this year\'s Movin\' On festival.  </item>
+        <item>Happy Valley’s #1 Radio Station, B94.5 the home of all of the hits will be on site.</item>
+        <item>Check out the latest and greatest of all things DEW with free samples of exhilarating and thirst quenching Mountain Dew - a one of a kind taste.</item>
+        <item>Since 2006, ReverbNation has helped millions of emerging Artists build their careers. They’ve connected Artists to venues, festivals, brands, publishers, labels, and the fans themselves. ReverbNation’s mission puts Artists First. Visit their tents for voter registration information, environmental initiatives, and LGBTQ awareness programs.</item>
+        <item>A Penn State staple for years, Snyder’s Concessions provides tasty eats outside Penn State football games and Movin’ On each and every spring. With trailers for fried vegetables, french fries, funnel cake, gyros, lemonade, hamburgers/hot dogs/sausage, and pizza - Snyder’s has something for everyone.</item>
+        <item>Remember Movin’ On 2016 and commemorate your time at Penn State with your own official logo gear! Grab a 2016 tank for $10, a tee for $8 - or get retro and buy Movin’ On throwback shirts for $6. $8 will also land you an official Movin’ On logo t-shirt. All proceeds go to making Movin’ On one of the best student run music festivals in the country.</item>
+    </string-array>
+    <string-array name="spotify">
+        <item>http://www.cecilblutchercreates.com/</item>
+        <item>spotify:artist:1S9WGrK7SZfXXQtHBYzDle</item>
+        <item>spotify:artist:5ivCbtrcD5N4rD337xIb2z</item>
+        <item>spotify:artist:3NPpFNZtSTHheNBaWC82rB</item>
+        <item>spotify:artist:2gBjLmx6zQnFGQJCAQpRgw</item>
+        <item>spotify:artist:6DIS6PRrLS3wbnZsf7vYic</item>
+    </string-array>
+    <string name="title_activity_artist_detail">ArtistDetailActivity</string>
+    <string name="title_activity_booth_detail">BoothDetailActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
